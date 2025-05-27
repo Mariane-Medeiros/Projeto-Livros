@@ -1,0 +1,12 @@
+Um mapa interativo com marcadores para locais importantes (localização de um estabelecimento ou pontos turísticos, restaurantes, parques, etc.);
+Um sistema de navegação usando Drawer Navigator ou Bottom Tabs, com no mínimo 5 telas como: "Mapa", "Lista de Locais", "Favoritos", "Mercadorias", "Serviços", "Sobre"... ;
+Uma tela com uma FlatList, adicionando interação em cada item da lista;
+Formulário ou Campos de busca usando TextInput;
+Botões e toques interativos para navegar, favoritar locais e visualizar detalhes;
+Uso do Speech (text-to-speech) para ler em voz alta o nome e a descrição de algum objeto quando o usuário toca r em um botão "Ouvir";
+
+mapa de livrarias
+quero ler -> botao abrir livro
+formulario -> review de livros
+autores
+Citações
